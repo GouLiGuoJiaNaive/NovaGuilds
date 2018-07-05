@@ -9,7 +9,7 @@ chat:
  delayedtpmoved: "您的位置发生了移动,传送已取消.!"
  erroroccured: "&c错误,请联系服务器管理员."
  update: "&4发现版本更新！&a请点击查看：&6http://www.novaguilds.pl/"
- maxamount: "Maximum allowed amount is: &c{AMOUNT}"
+ maxamount: "允许的最大金额为: &c{AMOUNT}"
  basic:
   negativenumber: "请输入数字(不得小于0)"
   'on': "开"
